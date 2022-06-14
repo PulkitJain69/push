@@ -6,7 +6,7 @@ function Footer() {
   return (
     <Foot>
       <Heading>Coming Soon...</Heading>
-      <Button onclick = {()=> router.push("https://www.linkedin.com/company/pushindia")}>CONTACT US</Button>
+      <Button onClick = {()=> router.push("https://www.linkedin.com/company/pushindia")}>CONTACT US</Button>
       <FooterText>
         <Text>www.pushindia.in</Text>
         {/* <Text>@starkindustry</Text> */}
